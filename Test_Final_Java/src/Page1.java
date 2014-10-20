@@ -6,6 +6,7 @@ public class Page1 {
 	 */
 	public static void main(String[] args) {
 		System.out.println(" Uef : Bonjour ACSIS ");
+		System.out.println(" Dev2 : Salut ucef ");
 	}
 
 }
